@@ -1,9 +1,14 @@
 package com.educandoweb.course.services.exceptions;
 
-public class DatabaseException {
+public class DatabaseException extends RuntimeException {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 
 	public DatabaseException(String message) {
-		// TODO Auto-generated constructor stub
+		super(message);
 	}
 
 }
