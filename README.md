@@ -12,8 +12,8 @@ Esta aplicação é um projeto didático executado em acordo com os exercícios 
 - Maven
 - Banco de dados: mySQL
 
-## Back end
-Pré-requisitos: Java 11
+## Pré-Requisitos
+Java 11
 
 # Autor
 
